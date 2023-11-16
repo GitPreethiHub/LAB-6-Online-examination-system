@@ -16,6 +16,32 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+#### Usecase Diagram:
+![image](https://github.com/GitPreethiHub/LAB-6-Online-examination-system/assets/119475585/681fcee4-9b16-460d-9af6-9165bd91d52c)
+
+
+#### Package Diagram:
+![image](https://github.com/GitPreethiHub/LAB-6-Online-examination-system/assets/119475585/edea5897-2d47-4198-ad97-b3c421e5d8d9)
+
+
+#### Class Diagram:
+![image](https://github.com/GitPreethiHub/LAB-6-Online-examination-system/assets/119475585/784f6842-ce90-4d7f-988a-83c0a8634eee)
+
+
+#### Activity Diagram:
+![image](https://github.com/GitPreethiHub/LAB-6-Online-examination-system/assets/119475585/ccf7771d-8862-4e15-9a32-d724fce060e1)
+
+
+#### Communication Diagram:
+![image](https://github.com/GitPreethiHub/LAB-6-Online-examination-system/assets/119475585/2ee2e542-175a-46af-a5d2-ab456ec948d0)
+
+
+#### Sequence Diagram:
+![image](https://github.com/GitPreethiHub/LAB-6-Online-examination-system/assets/119475585/6993bd59-6730-4128-9ce6-3a8c49601a8f)
+
+
+#### Class Diagram:
+![image](https://github.com/GitPreethiHub/LAB-6-Online-examination-system/assets/119475585/5b0cd40d-99fa-4efb-9602-5d61d7f040f0)
 
 
 
